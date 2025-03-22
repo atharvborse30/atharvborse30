@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Borse</h1>
-<h3 align="center">A passionate Cloud | DevOps | Software Developer</h3>
+<h3 align="center">Quant and AI/ML Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvborse30&label=Profile%20views&color=0e75b6&style=flat" alt="atharvborse30" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/atharv66039662" target="blank"><img src="https://img.shields.io/twitter/follow/atharv66039662?logo=twitter&style=for-the-badge" alt="atharv66039662" /></a> </p>
 
-- 🔭 I’m currently working on **AWS & Microsoft Cloud**
+- 🔭 I’m currently working on **AWS Cloud**
 
 - 🌱 I’m currently learning **AWS and Azure Cloud Computing**
 
