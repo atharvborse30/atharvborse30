@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/atharv66039662" target="blank"><img src="https://img.shields.io/twitter/follow/atharv66039662?logo=twitter&style=for-the-badge" alt="atharv66039662" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Cloud**
+- 🔭 I’m currently working in **AI/ML Development**
 
-- 🌱 I’m currently learning **AWS and Azure Cloud Computing**
+- 🌱 I’m currently learning **Quant Finance**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
